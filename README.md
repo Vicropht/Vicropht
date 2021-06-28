@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋 ✨ Welcome to my GitHub profile ✨
+
+## I'm Victor, a junior Front End Dev with a passion for games 🎮, music 🎧 and coding 👨‍💻
 
 <p align="center">
   <a href="https://github.com/puf17640" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vicropht&title_color=333&text_color=777" alt="Julian's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Vicropht&title_color=333&text_color=777" alt="Victor's stats" >
   </a>
 </p>
 
