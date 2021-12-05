@@ -1,6 +1,6 @@
 ### Hi there 👋 ✨ Welcome to my GitHub profile ✨
 
-## I'm Victor, a junior Front End Dev with a passion for games 🎮, music 🎧 and coding 👨‍💻
+## I'm Victor, a junior Software Developer with a passion for games 🎮, music 🎧 and coding 👨‍💻
 
 <p align="center">
   <a href="https://github.com/puf17640" class="rich-diff-level-one">
