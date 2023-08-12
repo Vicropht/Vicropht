@@ -3,12 +3,6 @@
 ## I'm Victor, a junior Software Developer with a passion for games 🎮, music 🎧 and coding 👨‍💻
 
 <p align="center">
-  <a href="https://github.com/vicropht" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vicropht&title_color=333&text_color=777" alt="Victor's stats" >
-  </a>
-</p>
-
-<p align="center">
   &emsp;
   <a href= "https://www.instagram.com/vicstoph/">
     <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
