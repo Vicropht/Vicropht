@@ -8,7 +8,7 @@
     <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="https://vicropht.com">
+  <a href="https://vicropht.xyz">
     <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
   </a>
   &emsp;
